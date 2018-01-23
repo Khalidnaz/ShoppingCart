@@ -1,0 +1,11 @@
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopUI\bin\Debug\ShopUI.exe.config
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopUI\bin\Debug\ShopUI.exe
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopUI\bin\Debug\ShopUI.pdb
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopUI\obj\Debug\ShopUI.csprojResolveAssemblyReference.cache
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopUI\obj\Debug\ShopUI.Properties.Resources.resources
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopUI\obj\Debug\ShopUI.Shop.resources
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopUI\obj\Debug\ShopUI.csproj.GenerateResource.Cache
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopUI\obj\Debug\ShopUI.exe
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopUI\obj\Debug\ShopUI.pdb
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopUI\bin\Debug\ShopLibrary.dll
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopUI\bin\Debug\ShopLibrary.pdb

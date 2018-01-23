@@ -1,0 +1,5 @@
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopLibrary\bin\Debug\ShopLibrary.dll
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopLibrary\bin\Debug\ShopLibrary.pdb
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopLibrary\obj\Debug\ShopLibrary.dll
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopLibrary\obj\Debug\ShopLibrary.pdb
+c:\users\khalidnaz\documents\visual studio 2017\Projects\Shop\ShopLibrary\obj\Debug\ShopLibrary.csprojResolveAssemblyReference.cache
